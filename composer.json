@@ -1,0 +1,20 @@
+{
+    "name": "kong95/tools",
+    "description": "Common Tools",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kong",
+            "email": "272344701@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kong95\\": "src"
+        }
+    }
+}
